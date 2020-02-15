@@ -1,0 +1,9 @@
+C:\Users\Hauke\source\repos\MemoryMap\MemoryMap\obj\Debug\MemoryMap.csprojAssemblyReference.cache
+C:\Users\Hauke\source\repos\MemoryMap\MemoryMap\obj\Debug\MemoryMap.Form1.resources
+C:\Users\Hauke\source\repos\MemoryMap\MemoryMap\obj\Debug\MemoryMap.Properties.Resources.resources
+C:\Users\Hauke\source\repos\MemoryMap\MemoryMap\obj\Debug\MemoryMap.csproj.GenerateResource.cache
+C:\Users\Hauke\source\repos\MemoryMap\MemoryMap\bin\Debug\MemoryMap.exe.config
+C:\Users\Hauke\source\repos\MemoryMap\MemoryMap\bin\Debug\MemoryMap.exe
+C:\Users\Hauke\source\repos\MemoryMap\MemoryMap\bin\Debug\MemoryMap.pdb
+C:\Users\Hauke\source\repos\MemoryMap\MemoryMap\obj\Debug\MemoryMap.exe
+C:\Users\Hauke\source\repos\MemoryMap\MemoryMap\obj\Debug\MemoryMap.pdb
